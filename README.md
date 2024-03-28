@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Kalaskar;Nice+to+meet+you!&center=true&size=40">
   </a>
 </h1>
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 <br>
 <p align=center>
   <a href="https://github.com/rohan1112">
@@ -14,9 +14,9 @@
     <img src="https://badges.pufler.dev/repos/rohan1112?style=flat-square&color=black&logo=github">
   </a>
 </p>
-<hr>
+
+<h1>Languages and Tools</h1>
 <br>
-### - Languages and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -51,7 +51,7 @@
 </h4>
 <hr>
 <h3>Where to find me</h3>
-<p><a href="rohankalaskar1112@gmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<p><a href="rohankalaskar1112@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=red" /></a> 
 <p><a href="https://github.com/rohan1112" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <!--   <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
   <a href="www.linkedin.com/in/rohan-kalaskar-89a295230" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
