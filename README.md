@@ -1,11 +1,20 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Kalaskar...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Kalaskar;Nice+to+meet+you!&center=true&size=40">
   </a>
 </h1>
-
-
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<br>
+<p align=center>
+  <a href="https://github.com/rohan1112">
+    <img src="https://badges.pufler.dev/visits/rohan1112/rohan1112?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/rohan1112?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/rohan1112?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+<hr>
 ### - Languages and Tools...
 
 <p align="center">
@@ -20,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-
+<hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -39,11 +48,15 @@
 <h4 align="center">
   <a href="https://github.com/rohan1112?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
+<hr>
 <h3>Where to find me</h3>
+[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.miller.vega@gmail.com)](rohankalaskar1112@gmail.com)
 <p><a href="https://github.com/rohan1112" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <!--   <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
   <a href="www.linkedin.com/in/rohan-kalaskar-89a295230" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
+
+
 <!--
 **rohan1112/rohan1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
