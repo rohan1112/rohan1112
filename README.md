@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Kalaskar;Nice+to+meet+you!&center=true&size=40">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohan+Kalaskar;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
@@ -36,7 +36,7 @@
 <div width="100%" align="center">
  <a align="left" href="https://github.com/rohan1112/Java-Assignments" title="Java-Assignments"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rohan1112&repo=Java-Assignments&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/rohan1112/The-Wild-Oasis" title="The-Wild-Oasis"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rohan1112&repo=The-Wild-Oasis&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/rohan1112/Pizzazz" title="Pizzazz"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rohan1112&repo=Pizzazz&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/rohan1112/React-Projects" title="React-Projects"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=rohan1112&repo=React-Projects&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
